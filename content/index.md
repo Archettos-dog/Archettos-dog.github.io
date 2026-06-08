@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: 我的数字花园
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+欢迎来到AYIES的博客
+
+小孩子不懂事，写着玩的。
+
+Do not doubt or feel like lost 
+Everything's Alright with you.
