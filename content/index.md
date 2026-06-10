@@ -4,8 +4,9 @@ title: AYIES的数字花园
 
 # 欢迎来到AYIES的博客
 
+>收起散落回忆，转身奔向下个瞬间。
+>当未来地图展开，晨光摇曳，花团锦簇。
+
+
 小孩子不懂事，写着玩的。
 
-Do not doubt or feel like lost.
-
-Everything's Alright with you.
