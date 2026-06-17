@@ -1,3 +1,10 @@
+---
+title: Memo写作样例
+date: 2026-06-16
+---
+
+> 凡过往皆被铭记，凡沉浮皆可听闻。
+
 ------
 
 **MEMORANDUM**
@@ -6,7 +13,7 @@
 
 **TO:** Dr. Cheng, MIC Organizing Committee 
 
-**FROM:** Xinyang Bai, International School (Class 2122) 
+**FROM:** AYIES, International School (Class 2122) 
 
 **SUBJECT:** Suggestions on Paper Writing Schedule, Plagiarism Checking, and Attendance for MIC 2026
 
