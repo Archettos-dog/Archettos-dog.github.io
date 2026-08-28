@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+body {
+  background-image:
+    linear-gradient(rgba(99, 83, 61, 0.08) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(99, 83, 61, 0.08) 1px, transparent 1px);
+  background-size: 35px 35px;
+}
+
+:root[saved-theme="dark"] body {
+  background-image: none;
+}
